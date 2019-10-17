@@ -43,3 +43,4 @@ defaults:
       type: videos
     values:
       layout: video
+theme: jekyll-theme-cayman
